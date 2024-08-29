@@ -37,19 +37,19 @@ print(dataset.head())
 print(dataset.tail())
 ```
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/53cb77bb-109a-4787-b525-3f36a2e37012">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/53cb77bb-109a-4787-b525-3f36a2e37012">
 
 ```
 dataset.info()
 ```
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/bb6bf5ea-11d2-4d72-8390-3c9e4e8cfbca">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/bb6bf5ea-11d2-4d72-8390-3c9e4e8cfbca">
 
 ```
 dataset.describe()
 ```
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/dabba87b-87bb-4bf9-8d3a-36a5e283b3fc">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/dabba87b-87bb-4bf9-8d3a-36a5e283b3fc">
 
 ```
 x=dataset.iloc[:,:-1].values
@@ -58,19 +58,19 @@ y=dataset.iloc[:,-1].values
 print(y)
 ```
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/c018ea92-4541-4415-8550-92950559c8e6">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c018ea92-4541-4415-8550-92950559c8e6">
 
 ```
 x.shape
 ```
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/a0f2ae86-042c-42c2-8831-2700906013d9">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a0f2ae86-042c-42c2-8831-2700906013d9">
 
 ```
 y.shape
 ```
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/70ba1c6e-70bf-4506-ae7c-e79101ca6a41">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/70ba1c6e-70bf-4506-ae7c-e79101ca6a41">
 
 ```
 m=0
@@ -96,9 +96,9 @@ print(len(error))
 plt.plot(range(0,epochs),error)
 ```
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/b8d8f31d-1e99-4ba3-9a7b-10e0db3a8387">
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/3cb9b564-238e-49cf-a3c0-a7d254c24040">
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/199a2dad-3535-4db8-bc9b-18463a632db0">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b8d8f31d-1e99-4ba3-9a7b-10e0db3a8387">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3cb9b564-238e-49cf-a3c0-a7d254c24040">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/199a2dad-3535-4db8-bc9b-18463a632db0">
 
 
 ## Result:
