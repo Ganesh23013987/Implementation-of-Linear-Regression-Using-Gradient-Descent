@@ -22,7 +22,7 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: GANESH D
+Developed by:    GANESH D
 RegisterNumber:  212223240035
 */
 ```
@@ -97,9 +97,9 @@ print(len(error))
 plt.plot(range(0,epochs),error)
 ```
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/b8d8f31d-1e99-4ba3-9a7b-10e0db3a8387">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b8d8f31d-1e99-4ba3-9a7b-10e0db3a8387">
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/3cb9b564-238e-49cf-a3c0-a7d254c24040">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/199a2dad-3535-4db8-bc9b-18463a632db0">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/199a2dad-3535-4db8-bc9b-18463a632db0">
 
 
 ## Result:
