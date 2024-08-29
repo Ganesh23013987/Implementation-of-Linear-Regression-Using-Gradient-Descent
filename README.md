@@ -37,19 +37,19 @@ print(dataset.head())
 print(dataset.tail())
 ```
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/53cb77bb-109a-4787-b525-3f36a2e37012">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/53cb77bb-109a-4787-b525-3f36a2e37012">
 
 ```
 dataset.info()
 ```
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/bb6bf5ea-11d2-4d72-8390-3c9e4e8cfbca">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/bb6bf5ea-11d2-4d72-8390-3c9e4e8cfbca">
 
 ```
 dataset.describe()
 ```
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/dabba87b-87bb-4bf9-8d3a-36a5e283b3fc">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/dabba87b-87bb-4bf9-8d3a-36a5e283b3fc">
 
 ```
 x=dataset.iloc[:,:-1].values
@@ -64,7 +64,7 @@ print(y)
 x.shape
 ```
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/a0f2ae86-042c-42c2-8831-2700906013d9">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6ab9d665-2e28-4454-889a-14b12485ae96">
 
 ```
 y.shape
