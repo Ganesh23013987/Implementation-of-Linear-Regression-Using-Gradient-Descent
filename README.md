@@ -58,7 +58,7 @@ y=dataset.iloc[:,-1].values
 print(y)
 ```
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/c018ea92-4541-4415-8550-92950559c8e6">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c018ea92-4541-4415-8550-92950559c8e6">
 
 ```
 x.shape
@@ -70,7 +70,8 @@ x.shape
 y.shape
 ```
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/70ba1c6e-70bf-4506-ae7c-e79101ca6a41">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/53f343a0-5102-4dac-9a01-242dafabdd92">
+
 
 ```
 m=0
