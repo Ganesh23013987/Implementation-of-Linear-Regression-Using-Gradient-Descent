@@ -90,15 +90,12 @@ Scaler=StandardScaler()
 x1=x.astype(float)
 x1_Scaled=Scaler.fit_transform(x1)
 y1_Scaled=Scaler.fit_transform(y)
-```
-
-```
 print(x1_Scaled)
 print(y1_Scaled)
 ```
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/3e4f179e-2437-467a-a446-a0b8388215a3">
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/9f3d88ef-d71e-4cf2-9cc0-ae9caed97c9b">
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/9f3d88ef-d71e-4cf2-9cc0-ae9caed97c9b">
 
 ```
 theta=multivariate_linear_regression(x1_Scaled,y1_Scaled)
