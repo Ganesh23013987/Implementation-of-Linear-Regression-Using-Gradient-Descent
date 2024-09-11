@@ -82,7 +82,7 @@ print(x)
 ```
 print(y)
 ```
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/904263a7-226f-4569-add9-f206542b141b">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/904263a7-226f-4569-add9-f206542b141b">
 
 
 ```
