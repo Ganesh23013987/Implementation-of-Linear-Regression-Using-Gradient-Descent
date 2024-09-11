@@ -73,7 +73,9 @@ y=(dataset.iloc[:,-1].values).reshape(-1,1)
 print(x)
 ```
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/e4953624-0116-4375-a297-73e0088c0381">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e226fc07-6994-402b-829c-e32fe58a00df">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/43fe8efd-df68-460c-b3da-d9663adbf699">
+
 
 
 ```
